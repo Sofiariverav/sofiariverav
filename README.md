@@ -1,8 +1,14 @@
-#    Ana Rivera e Isabella Peña
-1. Gastronomía
-2. Estudiar
+# Ana Rivera e Isabella Peña
+## Cualidades
+1. Estudiantes de Media Técnica
+2. Amantes de la Gastronomía
+3. Nos gusta Estudiar y:
 - Leer Historietas
--  Ver películas
+- Ver películas
+- Bailar
+
+
+![Isa y Sofi](https://user-images.githubusercontent.com/104936768/166819812-909c1930-b9c9-4160-aab6-06c89e58370d.png)
 
 <!--
 **Sofiariverav/sofiariverav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
