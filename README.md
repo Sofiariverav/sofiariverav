@@ -30,7 +30,7 @@
 
 10. Sabemos usar:
 - Visual Studio Code
-- Git Bush
+- Git Bash
 - Pseint
 
 
