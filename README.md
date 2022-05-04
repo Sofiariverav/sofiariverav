@@ -22,7 +22,7 @@
 - Amantes de los animales :paw_prints:
 - Sociables :loudspeaker:
 
-9. Tenemos conocimientos en lenguaje:
+9. Tenemos conocimientos:
 - HTML
 - CSS
 - Bases de datos
