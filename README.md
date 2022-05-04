@@ -11,7 +11,7 @@
 - Ingeniería Ambiental :deciduous_tree:
 - Ingeniería en Energías :bulb:
 - Comida Gourmet :wine_glass:
-- 
+
 6. Amantes de la Gastronomía :relaxed:
 
 7. Nos gusta Estudiar y:
