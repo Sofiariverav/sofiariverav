@@ -4,12 +4,14 @@
 2. Cursamos en este momento el grado 11
 3. Estudiantes de la Institución Educativa Santa Elena
 4. Tenemos 16 y 15 años de edad respectivamente
+
 5. Poseemos certificados en diferentes areas:
 - Inteligencia Artificial :iphone:
 - Robótica :space_invader:
 - Ingeniería Ambiental :deciduous_tree:
 - Ingeniería en Energías :bulb:
 - Comida Gourmet :wine_glass:
+- 
 6. Amantes de la Gastronomía :relaxed:
 
 7. Nos gusta Estudiar y:
