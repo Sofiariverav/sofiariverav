@@ -5,7 +5,7 @@
 3. Estudiantes de la Institución Educativa Santa Elena
 4. Tenemos 16 y 15 años de edad respectivamente
 
-5. Poseemos certificados en diferentes areas:
+5. Poseemos certificados de semilleros en diferentes areas:
 - Inteligencia Artificial :iphone:
 - Robótica :space_invader:
 - Ingeniería Ambiental :deciduous_tree:
