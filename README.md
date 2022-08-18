@@ -27,7 +27,6 @@
 9. Tenemos conocimientos:
 - HTML
 - CSS
-- Bases de datos
 - Sistemas Operativos
 
 10. Sabemos usar:
